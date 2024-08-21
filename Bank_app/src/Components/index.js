@@ -1,30 +1,23 @@
-import Navbar from './Components/Navbar';
-import Hero from './Components/Hero';
-import Billing from './Billing';
-import Business from './Business';
-import Button from './Button';
-import CardDeal from './CardDeal';
-import Clients from './Clients';
-import CTA from './CTA';
-import FeedBackCard from './FeedBackCard';
-import Footer from './Footer';
-import GetStrated from './GetStrated';
-import Stats from './Stats';
-import Testimonials from './Testimonials';
+import Navbar from "./Navbar";
+import Billing from "./Billing";
+import CardDeal from "./CardDeal";
+import Business from "./Business";
+import Clients from "./Clients";
+import CTA from "./CTA";
+import Stats from "./Stats";
+import Footer from "./Footer";
+import Testimonials from "./Testimonials";
+import Hero from "./Hero";
 
-export{
+export {
   Navbar,
   Billing,
   CardDeal,
-  CardDeal,
-  Hero,
+  Business,
+  Clients,
   CTA,
   Stats,
   Footer,
   Testimonials,
-  FeedBackCard,
-  Clients,
-  Business,
-  GetStrated,
-  Button,
+  Hero,
 };
